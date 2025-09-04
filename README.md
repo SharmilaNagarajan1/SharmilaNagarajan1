@@ -43,7 +43,7 @@
 
 
 ## Featured Projects
-- 🔄 [**Complete CI/CD with GitHub Actions & ArgoCD**](https://github.com/<SharmilaNagarajan1>/argocd-appcode) - Implemented a GitOps-based CI/CD pipeline using GitHub Actions and ArgoCD to automate container builds, manifest updates, and continuous deployment to Kubernetes.
+- 🔄 [**Complete CI/CD with GitHub Actions & ArgoCD**](https://github.com/SharmilaNagarajan1/argocd-appcode) - Implemented a GitOps-based CI/CD pipeline using GitHub Actions and ArgoCD to automate container builds, manifest updates, and continuous deployment to Kubernetes.
 
 ---
 
