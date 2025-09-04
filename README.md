@@ -20,30 +20,26 @@
 ## 🛠️ Skills & Tools  
 
 **Cloud & Infrastructure**  
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>  
 
 **DevOps & CI/CD**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30"/>  
 
 **Monitoring & Logging**  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)  
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="30"/>  
 ---
 
 ## 📌 Featured Projects
-- 🌐 [**Azure 3-Tier Architecture with Terraform**](#) – Built a scalable frontend-backend-database setup with App Gateway & Load Balancer  
-- 🚀 [**CI/CD Pipeline with GitHub & GitLab**](#) – Automated deployments of a React + Node.js app to Azure App Services  
-- ☸️ [**Kubernetes Deployment with ArgoCD**](#) – Implemented GitOps workflow for multi-environment deployments  
-- 📊 [**Monitoring & Alerting Setup**](#) – Configured **Prometheus, Grafana, Splunk** dashboards with alert & incident management  
+- 🔄 [**Complete CI/CD with GitHub Actions & ArgoCD**](https://github.com/<SharmilaNagarajan1>/argocd-appcode) - Implemented a GitOps-based CI/CD pipeline using GitHub Actions and ArgoCD to automate container builds, manifest updates, and continuous deployment to Kubernetes.
 
 ---
 
